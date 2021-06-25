@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+  rstudio-school:
+    image: edickie/kcnischool-rstudio:latest
+    ports:
+      - 8787:8787
+    volumes:
+      - ./:/home/rstudio/kcni-school-data
+    environment:
+      - DISABLE_AUTH=true
+
+  rstudio-plink:
+    image: edickie/kcnischool-rstudio:release-2020
+    ports:
+    - 8787:8787
+    volumes:
+    - ./:/home/rstudio/kcni-school-data
+    environment:
+    - DISABLE_AUTH=true
+
+
+
+
+
