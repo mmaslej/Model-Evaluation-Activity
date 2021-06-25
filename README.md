@@ -10,3 +10,6 @@ https://mybinder.org/v2/gh/edickie/Model-Evaluation-Activity.git/HEAD?urlpath=rs
 Rstudio [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edickie/Model-Evaluation-Activity.git/HEAD?urlpath=rstudio)
 
 Note - if running on Binder - rstudio is version 1.2.5 and R is version
+
+## for testing with R versions
+docker run --rm -p 127.0.0.1:8787:8787 -e DISABLE_AUTH=true rocker/tidyverse
