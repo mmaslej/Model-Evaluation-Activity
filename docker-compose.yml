@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  rstudio-school:
+  rstudio:
     image: edickie/kcnischool-rstudio:latest
     ports:
       - 8787:8787
