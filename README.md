@@ -9,10 +9,10 @@ This folder contains three files:
 
 ## To run these scripts in binder
 
-Rstudio [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edickie/Model-Evaluation-Activity.git/HEAD?urlpath=rstudio)
+Rstudio [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmaslej/Model-Evaluation-Activity.git/HEAD?urlpath=rstudio)
 
 Click on the images above or the link below to run in a binder instance: 
-https://mybinder.org/v2/gh/edickie/Model-Evaluation-Activity.git/HEAD?urlpath=rstudio
+https://mybinder.org/v2/gh/mmaslej/Model-Evaluation-Activity.git/HEAD?urlpath=rstudio
 
 Note - if running on Binder - rstudio is version 1.2.5 and R is version 4.1.0
 

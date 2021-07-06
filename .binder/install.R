@@ -5,4 +5,4 @@ install.packages('glmnet')
 
 # intstalling knitting needs
 install.packages('rmarkdown')
-
+install.packages('tidyverse')

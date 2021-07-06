@@ -10,7 +10,7 @@ output:
 
 ```{r install-packages, eval=FALSE}
 #install/load necessary packages
-install.packages('plyr') #install data analysis package if needed
+install.packages('tidyverse') #install data analysis package if needed
 install.packages('caret') #install ML package if needed
 install.packages('fairness') #install fairness package if needed
 ```
